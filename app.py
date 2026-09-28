@@ -116,6 +116,10 @@ class Alternative(BaseModel):
 def root():
     return {"message": "🍟 Chips Sensory AI System", "status": "running"}
 
+@app.post("/predict", response_model=SensoryResponse)
+async def predict_alias(data: SensoryInput):
+    return await predict_sensory(data)
+
 @app.post("/predict_sensory", response_model=SensoryResponse)
 def predict_sensory(data: SensoryInput):
     """Predict sensory scores from ingredient percentages"""
