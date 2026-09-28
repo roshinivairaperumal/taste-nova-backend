@@ -1,0 +1,6 @@
+Treatment_Label,Saltiness_Mean,Saltiness_Standard_Error,Bitterness_Mean,Bitterness_Standard_Error,Overall_Taste_Mean,Overall_Taste_Standard_Error,Texture_Mean,Texture_Standard_Error,Overall_Liking_Mean,Overall_Liking_Standard_Error
+Sodium_Chloride_100_percent,6.0,0.3,5.5,0.3,5.6,0.3,5.0,0.3,5.4,0.3
+Sodium_Chloride_90_percent_Potassium_Chloride_10_percent,5.8,0.3,5.5,0.3,5.9,0.3,5.2,0.3,5.6,0.3
+Sodium_Chloride_80_percent_Potassium_Chloride_20_percent,5.5,0.3,5.5,0.3,5.5,0.3,3.5,0.3,4.8,0.3
+Sodium_Chloride_70_percent_Potassium_Chloride_30_percent,5.2,0.3,5.2,0.3,5.2,0.3,4.4,0.3,4.8,0.3
+Sodium_Chloride_60_percent_Potassium_Chloride_40_percent,5.4,0.3,5.1,0.3,5.5,0.3,4.3,0.3,5.0,0.3

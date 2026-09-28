@@ -2,11 +2,14 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Dict, Optional
+from pathlib import Path
 import joblib
 import numpy as np
 import pandas as pd
 
 app = FastAPI(title="Chips Sensory AI System")
+
+MODELS_DIR = Path(__file__).parent / "models"
 
 app.add_middleware(
     CORSMiddleware,
@@ -18,12 +21,12 @@ app.add_middleware(
 
 # Load models
 print("Loading AI models...")
-sensory_model = joblib.load('models/sensory_model.pkl')
-sensory_scaler = joblib.load('models/sensory_scaler.pkl')
-shelf_model = joblib.load('models/shelf_model.pkl')
-shelf_scaler = joblib.load('models/shelf_scaler.pkl')
-sensory_features = joblib.load('models/sensory_features.pkl')
-shelf_features = joblib.load('models/shelf_features.pkl')
+sensory_model = joblib.load(MODELS_DIR / 'sensory_model.pkl')
+sensory_scaler = joblib.load(MODELS_DIR / 'sensory_scaler.pkl')
+shelf_model = joblib.load(MODELS_DIR / 'shelf_model.pkl')
+shelf_scaler = joblib.load(MODELS_DIR / 'shelf_scaler.pkl')
+sensory_features = joblib.load(MODELS_DIR / 'sensory_features.pkl')
+shelf_features = joblib.load(MODELS_DIR / 'shelf_features.pkl')
 print("✅ Models loaded!")
 
 # ============= ALTERNATIVE INGREDIENTS DATABASE =============

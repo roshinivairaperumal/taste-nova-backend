@@ -1,0 +1,3 @@
+Sample_Type,Frying_Temperature_120_Celsius,Frying_Temperature_150_Celsius,Frying_Temperature_180_Celsius,Parameter_Type
+Blanched potatoes,0.0128,0.0353,0.0588,degradation_rate_constant
+Blanched and dried potatoes,0.0098,0.0192,0.0461,degradation_rate_constant

@@ -1,0 +1,5 @@
+Temperature_Celsius,Pseudo_Zero_Order_Rate_Constant_k_times_10_minus_2,Pseudo_Zero_Order_R_Squared,Pseudo_First_Order_Rate_Constant_k_times_10_minus_2,Pseudo_First_Order_R_Squared,Pseudo_Second_Order_Rate_Constant_k_times_10_minus_2,Pseudo_Second_Order_R_Squared,Pseudo_Zero_Order_SE,Pseudo_First_Order_SE,Pseudo_Second_Order_SE
+20,30.41,0.95,1.74,0.96,-0.15,0.84,3.02,0.16,0.03
+30,80.71,0.9,3.05,0.97,-0.2,0.84,11.19,0.2,0.04
+40,199.42,0.9,9.41,0.99,-0.71,0.89,23.27,0.32,0.09
+50,303.72,0.89,13.22,0.99,-0.93,0.85,39.85,0.6,0.15

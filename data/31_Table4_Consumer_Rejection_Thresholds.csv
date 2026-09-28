@@ -1,0 +1,3 @@
+Consumer_Rejection_Percent,Rejection_Time_Lower_days,Rejection_Time_Estimate_days,Rejection_Time_Upper_days,Peroxide_Value_Limit_Lower_mEqO2_per_kg_oil,Peroxide_Value_Limit_Estimate_mEqO2_per_kg_oil,Peroxide_Value_Limit_Upper_mEqO2_per_kg_oil
+25,40,45,50,15,17,20
+50,67,73,80,33,39,45

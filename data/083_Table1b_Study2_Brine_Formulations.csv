@@ -1,0 +1,6 @@
+Treatment_Label,Sodium_Chloride_Concentration,Potassium_Chloride_Concentration,Proportions
+Sodium_Chloride_100_percent,5.0 g per 100 mL,0.0 g per 100 mL,"100% Sodium Chloride, 0% Potassium Chloride"
+Sodium_Chloride_90_percent_Potassium_Chloride_10_percent,4.5 g per 100 mL,0.5 g per 100 mL,"90% Sodium Chloride, 10% Potassium Chloride"
+Sodium_Chloride_80_percent_Potassium_Chloride_20_percent,4.0 g per 100 mL,1.0 g per 100 mL,"80% Sodium Chloride, 20% Potassium Chloride"
+Sodium_Chloride_70_percent_Potassium_Chloride_30_percent,3.5 g per 100 mL,1.5 g per 100 mL,"70% Sodium Chloride, 30% Potassium Chloride"
+Sodium_Chloride_60_percent_Potassium_Chloride_40_percent,3.0 g per 100 mL,2.0 g per 100 mL,"60% Sodium Chloride, 40% Potassium Chloride"

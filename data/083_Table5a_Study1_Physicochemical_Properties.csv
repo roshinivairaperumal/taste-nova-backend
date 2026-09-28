@@ -1,0 +1,6 @@
+Treatment_Label,Lightness_L_star,Green_to_Red_a_star,Blue_to_Yellow_b_star,Thickness_mm,Hardness_N,pH,Total_Dissolved_Solids_ppm,Salinity_g_per_100g,Hardness_SE,pH_SE,Total_Dissolved_Solids_SE,Salinity_SE
+Sodium_Chloride_100_percent,51.27,0,1.05,3.03,0.41,9.12,0.96,1.86,5.05,4.72,52.35,5.46
+Sodium_Chloride_80_percent,50.63,0,1.48,3.87,0.58,7.47,1.35,2.52,6.08,4.95,50.35,5.25
+Sodium_Chloride_60_percent,50.01,0,1.1,3.34,0.43,5.92,1.01,2.7,3.84,4.9,33.7,3.43
+Sodium_Chloride_40_percent,52.49,0,1.05,2.46,0.41,7.15,0.96,2.18,2.94,5.18,19.44,2.02
+Sodium_Chloride_20_percent,50.89,0,1.05,1.5,0.41,8.12,0.96,1.83,3.9,4.98,16.1,1.72

@@ -1,0 +1,53 @@
+"",Table 3. Probability values of the two-way ANOVA model with interaction.
+Sample * DayAttribute Attributep-Value Sample,Day p-Value Sample * Day p-Value p-Value Sample p-Value Day p-Value
+Sweet-BT 0.90,<0.0001 0.72 Chayote-A 0.708 0.010 0.77
+Chayote-F 0.45,<0.0001 0.85 Oil-A 0.723 <0.0001 0.93
+Oil-F 0.19,<0.0001 0.72 Burnt-A 0.885 0.626 0.94
+Salty-BT 0.88,<0.0001 0.57 Sweet-A 0.588 0.010 1.00
+Crunchy 0.46,<0.0001 0.93 Potato-A 0.435 <0.0001 0.91
+Bitter-BT 0.08,0.010 0.94 Fried-A 0.613 <0.0001 0.99
+Potato-F 0.76,<0.0001 0.84 Toasted-A 0.622 <0.0001 0.74
+Rancid-F 0.92,<0.0001 0.85 Rancid-A 0.822 <0.0001 0.77
+"",BT = basic taste; F = flavor; A = aroma.
+"",,Table 4. Probability values of the Cochran Q test of the cognitive profile.,
+Emotion,p-Value,Emotion p-Value Memory p-Value Memory,p-Value
+Active,<0.0001,Satisfied <0.0001 Traditional food <0.0001 Cold weather,0.47
+Adventurous,0.26,Secure 0.65 Party <0.0001 Hot weather,0.95
+Calm,0.83,Tame 0.26 Family <0.0001 Mild weather,0.007
+Enthusiastic,<0.0001,Understanding 0.41 Birthplace 0.89 Disease (-),<0.0001
+Fres,<0.0001,Warm 0.58 Childhood 0.93 Pain (-),0.03
+Good,<0.0001,Aggressive (-) <0.0001 Friendship 0.89 Hurt (-),0.61
+Good nature,<0.0001,Bored (-) <0.0001 Sport <0.0001 Obesity (-),<0.0001
+Happy,<0.0001,Disgusted (-) <0.0001 Alive 0.65 Stench (-),<0.0001
+Interested,0.002,Guilty (-) <0.0001 Gift 0.54 Addiction (-),0.004
+Joyful,1,Nostalgic (-) <0.0001 Spring <0.0001 Poverty (-),0.84
+Loving,0.42,Wild (-) <0.0001 Fall 0.36 Death (-),0.002
+Mild,0.13,Worried (-) <0.0001 Summer 0.002 Interpersonal conflict (-),0.58
+Pleasant,0.69,Winter 0.44 Accident (-),0.83
+"",,Rainy weather 0.03,
+"",,(-) Negative emotion or negative memory.,
+Table 5. Average (mean ± SD) values and probability of the two-way ANOVA with interaction for
+the preference data.
+Factor: Sample (p-Value = 0.19) Interaction (Sample * Day) p-Value = 0.18
+S1 4.11 ± 0.10 a 0 * S1 6.46 ± 0.18 a 30 * S5 3.0 ± 0.18 a
+S2 3.9 ± 0.10 a 0 * S2 6.23 ± 0.18 a 30 * S6 3.0 ± 0.18 a
+S3 3.7 ± 0.10 a 0 * S3 6.3 ± 0.18 a 60 * S1 3.1 ± 0.18 a
+S4 3.8 ± 0.10 a 0 * S4 6.0 ± 0.18 a 60 * S2 2.5 ± 0.18 a
+S5 3.8 ± 0.10 a 0 * S5 6.0 ± 0.18 a 60 * S3 2.4 ± 0.18 a
+S6 3.9 ± 0.10 a 0 * S6 6.2 ± 0.18 a 60 * S4 2.7 ± 0.18 a
+Factor: Day (p-Value ≤ 0.0001) 30 * S1 2.7 ± 0.18 a 60 * S5 2.5 ± 0.18 a
+0 days 6.1 ± 0.07 a 30 * S2 2.9 ± 0.18 a 60 * S6 2.5 ± 0.18 a
+30 days 2.8 ± 0.07 b 30 * S3 2.5 ± 0.18 a
+60 days 2.6 ± 0.07 b 30 * S4 2.6 ± 0.18 a
+"± = standard error; different letters in the column and by factor indicate significant differences (p < 0.05);"
+S = sample.
+"",,Table 6. Probability values of the two-way ANOVA with interaction for TDS data.,
+Attribute,Day,Time (s) Memory Day Time (s) Emotion Day,Time (s)
+Chayote,<0.0001,<0.0001 Childhood <0.0001 <0.0001 Happy <0.0001,<0.0001
+Oil,<0.0001,<0.0001 Traditional food <0.0001 <0.0001 Good <0.0001,<0.0001
+Burnt,<0.0001,<0.0001 Friendship <0.0001 <0.0001 Satisfied <0.0001,<0.0001
+Sweet,<0.0001,<0.0001 Rainy weather <0.0001 <0.0001 Pleasant <0.0001,<0.0001
+Potato,<0.0001,<0.0001 Obesity <0.0001 <0.0001 Disgusted <0.0001,<0.0001
+Fried,<0.0001,<0.0001 Stench <0.0001 <0.0001 Bored <0.0001,<0.0001
+Rancid,<0.0001,<0.0001 Interpersonal conflict <0.0001 <0.0001 Nostalgic <0.0001,<0.0001
+Toasted,<0.0001,0.001 Poverty <0.0001 <0.0001 Worried <0.0001,<0.0001

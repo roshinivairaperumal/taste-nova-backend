@@ -1,0 +1,91 @@
+Table 2,,,,
+Experimental matrix.,,,,
+Formulation Flour,Oil,Salt,Onion,Water
+F1 0.250000,0.200000,0.0100,0.080000,0.460000
+F2 0.265000,0.2000,0.0050,0.030000,0.500000
+F3 0.265000,0.2000,0.0050,0.030000,0.500000
+F4 0.288452,0.121548,0.0100,0.080000,0.500000
+F5 0.393207,0.156545,0.0100,0.030000,0.410248
+F6 0.400000,0.2000,0.0100,0.030000,0.360000
+F7 0.400000,0.1000,0.0050,0.080000,0.415000
+F8 0.337500,0.160417,0.0075,0.057083,0.437500
+F9 0.360000,0.100000,0.0100,0.030000,0.500000
+F10 0.3500,0.2100,0.0050,0.085000,0.350000
+F11 0.400000,0.1000,0.0050,0.080000,0.415000
+Table 3,,,,,,,,,,,,,,,,,,
+Statistical analysis of the measured responses.,,,,,,,,,,,,,,,,,,
+Statistical analysis of measured responses.,,,,,,,,,,,,,,,,,,
+Crispness,,,Odour,,,,,Taste,,,Colour,,,,,,,
+Source DL Coef F,,P,Coeff,,F,,P,Coeff,F,P,Coefficient,,,F,,P,,
+Regression 5 1369.72,,0,,,461.4,,0,,1060.38,0,,,,"1,775.44",,0,,
+Flour 1 4.31 43.24,,0.001,3.41,,11.06,,0.016*,4.56,51.13,0,2.337,,,19.76,,0.004,,
+Oil 1 3.64 12.43,,0.012*,3.02,,3.5,,0.111,1.79,3.18,0.125,3.263,,,15.5,,0.008,,
+Salt 1 -69.4 9.64,,0.021,14.7,,0.18,,0.688,-1.5,0,0.947,15.1,,,0.71,,0.432,,
+Oinion 1 6.8 10.7,,0.017,2.61,,0.64,,0.453,2.81,1.93,0.214,3.07,,,3.38,,0.116,,
+Water 1 5.489 84.02,,0,"4,609",,24.18,,0.003,3.911,45.07,0.001*,5.323,,,122.8,,0,,
+Lack of fit 4 3.09,,0.259,,,0.33,,0.842,,3.74,0.222,,,,0.18,,0.931,,
+Standard error of the regression 0.172886,,,0.270618,,,,,0.168196,,,0.138675,,,,,,,
+R2 99.91,,,99.74,,,,,99.89,,,99.93%,,,,,,,
+R2 (adjusted) 99.84%,,,99.52%,,,,,99.79,,,99.88%,,,,,,,
+"PRESS 0,65",,,"1,70",,,,,"0,58",,,"0,45",,,,,,,
+R2 (prev) 99.68%,,,99.00,,,,,99.61%,,,99.73,,,,,,,
+overall acceptability,,,moisture,,,,,protein,,Lipid,,,,,fibre,,,
+Source DL Coeff F,P,,Coeff,F,,P,,Coeff F,P,Coeff,F,,P,,Coeff,,F,P
+Regression 5 177.46,0,,,42.23,,0,,77.9,0,,37.15,,0,,,,45.4,0
+Flour 1 2.73 6.7,0.041,,-1.21,0.24,,0.643,,19.5 1.12,0.331,29.5,3.35,,0.117,,5.19,,0.31,0.599
+Oil 1 4.61 7.71,0.032,,6.27,2.58,,0.159,,27.3 0.88,0.384,5.8,0.05,,0.827,,12.2,,0.68,0.44
+Salt 1 25.3 0.5,0.507,,53.2,0.4,,0.552,,-647 1.06,0.343,-492,0.8,,0.405,,183,,0.33,0.588
+Oinion 1 3.13 0.88,0.385,,2.05,0.07,,0.803,,4.7 0.01,0.938,-16.3,0.1,,0.76,,-14.9,,0.25,0.633
+Water 1 1.076 1.25,0.306,,3.93,3.02,,0.133,,51.1 9.21,0.023,25.2,2.95,,0.137,,15.72,,3.39,0.115
+Lack of fit 4 8.76,0.105,,,1.96,,0.365,,0.58,0.712,,1.5,,0.437,,,,0.91,0.582
+Standard error of the regression,0.653192,,,,,4.86016,,,4.24628,,,,2.4665,,,,,
+R2 99.33,,,97.24,,,,,98.48,,96.87,,,,,97.42%,,,
+R2 (adjusted) 98.77%,94.93%,,,,,97.22%,,,94.26%,,,,95.28%,,,,,
+"PRESS 1,72","3,58",,,,,"5,4",,,"7,4",,,,"8,5",,,,,
+R2 (prev) 97.50,92.89%,,,,,95.02%,,,90.79%,,,,91.74%,,,,,
+DL = degrees of freedom; Coef = regression coefficients. F = value of the Fisher test; p = probability test value P; *= p-value < 0.05 indicating a significant effect at 5%,,,,,,,,,,,,,,,,,,
+"DL = degree of freedom; Coef = regression coefficients. F=Fischer test value; p = probability test value; *=value of p<0.05, indicating that there is a significant effect at 5%",,,,,,,,,,,,,,,,,,
+Table 4,,,,
+Sensory and hedonic profile of soy crisps.,,,,
+Code Colour Smell,Taste,Crispness,Hedonic,Rank
+F1 4.00 0.74ab± 3.9 ± 0.85abc,3.40 ± 0.70a,4.20 ± 1.03a,3.30 ± 1.02a,2.70 ± 1.11a
+F2 3.93 0.80ab± 0.78ab 4.30 ± 0.59c,3.60 ±,4.50 ± 0.93a,3.53 1.16a±,2.50 ± 1.10a
+F3 4.30 ab± 0.65 b 3.60 ± 0.96 a,3.66 ± 0.71,4.46 ± 0.97a,3.53 ± 1.19a,2.36 ± 1.15a
+F4 4.26 0.94ab± 4.00 ab± 0.64 abc,3.83 ± 0.69,4.30 ± 1.05a,3.50 ± 1.13a,2.36 ± 1.15a
+F5 3.90 a± 0.75 ab 4.23 ± 0.50 bc,4.06 ± 0.78 b,3.86 ± 1.30 a,3.76 ± 1.25 a,2.16 ± 1.11
+F6 3.63 ± 0.75a 3.76 ± 0.81abc,3.56 ± 0.50ab,4.03 1.32a±,3.03 ± 1.18a,3.10 ± 0.88a
+F7 3.96 ± 0.88ab 3.96 a± 0.55abc,3.90 ± 0.71 ab,4.43 ± 1.22 a,3.63 ± 1.15 a,2.56 ± 1.22
+F8 3.90 ± 0.71ab 3.90 ± 0.75abc,3.83 ± 0.64ab,4.30 ± 0.1.02a,3.53 0.107a±,2.60 ± 1.16a
+F9 4.10 0.75ab± 4.10 ± 0.54abc,3.70 ± 0.70ab,4.43 0.93a±,3.53 ± 1.16a,2.43 a± 1.13
+F10 3.80 a± 0.71ab 3.90 ± 0.54abc,3.66 ± 0.80 ab,4.60 ± 0.81 a,3.72 ± 0.84 a,2.53 ± 0.93
+F11 3.80 a± 0.80ab 3.70 ± 0.65ab,3.73 ± 0.78 ab,4.46 ± 0.73 a,3.80 ± 0.96 a,2.40 ± 1.24
+P-value 0.033 0.004,0.068,0.191,0.386,0.247
+Note: Different letters across the individual columns show significant differences (p<0.05) in the means of duplicates.,,,,
+Table 5,,,,,
+Physicochemical properties of the 11 formulations.,,,,,
+Formulation pH Moisture % Ash %,Protein %,Lipid content % Total fibre %,Carbohydrate %,,Energy value kcal
+F1 6.45 0.20ab± 0.36bcde 3.00 ± 8.86 ± 0.18c,24.33 ab± 0.08,14.55 ± 1.81abc 12.48 ± 0.37cdef,36.76 1.66bc±,,375.37 ± 10.19a
+F2 5.73 0.40ab± 0.10a 3.20 ± 5.78 0.43ab±,24.33 ± 0.08ab,21.19 ef± 0.26 10.20 ± 0.37bc,35.28 ± 0.63b,,429.21 ± 0.54ef
+F3 6.17 ± 0.04abcd 3.00 ± 0.60ab 6.59 ± 0.04ab,33.79 f± 0.60,15.11 1.54a± 1.48abc 15.25 ± 1.19g,26.23 ±,,376.16 ± 9.66a
+F4 6.40 ± 0.04bcde 3.20 ab± 0.00ab 7.23 ± 0.20abc,27.88 ± 1.26de,13.99 ± 0.50ab 12.08 ± 0.14cdef,35.60 ± 0.41 b,,379.93 ± 1.16
+F5 6.43 1.20ab± 0.07bcde 2.80 ± 5.55 ± 0.27a,23.41 ± 0.30a,11.41 ± 0.25a 12.81 f± 0.28,43.99 ± 0.62d,,372.37 ± 6.04a
+F6 6.56 de± 0.06 2.40 ab± 0.80 5.32 0.04a±,25.12 ± 0.17b,19.96 0.42def± 12.61 ± 0.93def,34.56 ± 0.51b,,418.43 ± 2.46cdef
+F7 6.08 ± 0.00abc 2.40 ab± 1.20 6.98 ± 1.31abc,32.30 ± 0.61f,21.41 ± 0.21ef 10.38 0.28cde±,26.51 ± 1.83a,,428.01 ef± 7.82
+F8 6.74 e± 0.11 4.00 b± 0.40 7.09 ± 1.69abc,25.21 b± 0.70 b,22.24 ± 1.68 f 7.90 ± 0.98 ab,33.54 ± 4.85,,435.26 ± 3.75f
+F9 6.54 0.13e± 0.04cde 2.80 ± 0.80ab 6.17 ± 0.05ab,28.58 ±,19.55 1.13def± 10.33 0.04cd±,32.55 ± 0.46b,,420.51 ± 8.90def
+F10 5.98 ab± 0.02 ab 3.00 ± 0.20 7.21 0.19abc±,25.78 ± 0.30bc,14.44 ± 1.67abc 7.78 ± 1.96a,41.77 ± 3.65cd,,400.22 bcd± 1.67
+F11 6.02 0.78cdef± 0.06ab 1.40 ± 0.60a 6.28 ± 0.24ab,26.98 ± 0.10cd,17.27 ± 0.15cd 10.85 ±,37.19 ± 0.01bc,,412.23 ± 0.99cde
+P-value 0.026 0.000,0.000,0.000 0.000,0.000,,0
+The values correspond to the mean standard deviation of three measurements (n = 3). The same subscript letter in the same column indicates that there is no significant,,,,,
+difference between the samples for the parameter concerned (P<0.05).,,,,,
+Note: Different letters across the individual columns show significant differences (p<0.05) in the means of duplicates.,,,,,
+Table 6,,
+Calculation of the relative error of Fop.,,
+Parameter Predicted value,Observed value,Relative error
+Crispness 4.56,4.36,4.24
+Taste 3.85,3.63,5.70
+protein 32.17,32.92,2.32
+fibre 11.26,11.74,4.23
+Colour 4.01,4.4,9.53
+Desirability 0.96,,
+Difference (%),,5.20

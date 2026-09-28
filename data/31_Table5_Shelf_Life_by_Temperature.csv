@@ -1,0 +1,5 @@
+Storage_Temperature_Celsius,Shelf_Life_25pct_Rejection_Lower_days,Shelf_Life_25pct_Rejection_Estimate_days,Shelf_Life_25pct_Rejection_Upper_days,Shelf_Life_50pct_Rejection_Lower_days,Shelf_Life_50pct_Rejection_Estimate_days,Shelf_Life_50pct_Rejection_Upper_days
+20,70,79,88,118,129,137
+30,40,45,50,67,73,80
+40,14,15,17,22,24,26
+50,9,10,11,15,16,17
